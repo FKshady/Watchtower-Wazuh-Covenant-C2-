@@ -375,6 +375,4 @@ If you're studying for something like SOC analyst roles, blue team work, or just
 
 ---
 
-## License
-
-MIT — use it, share it, build on it.
+Cheers :D 
